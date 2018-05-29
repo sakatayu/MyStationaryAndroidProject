@@ -1,4 +1,4 @@
-package com.fefe.mystationaryproject.utils
+package com.fefe.mystationaryproject.utils.ext
 
 import java.util.*
 
