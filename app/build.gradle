@@ -83,7 +83,11 @@ dependencies {
     // BlurDialogFragment
     implementation "fr.tvbarthel.blurdialogfragment:lib:${blur_dialog_version}"
 
-
+    // flux
+    implementation "jp.bglb.bonboru:flux-processor-annotation:$flux_version"
+    implementation "jp.bglb.bonboru:flux-framework:$flux_version"
+    implementation "jp.bglb.bonboru:flux-framework-kotlin:$flux_version"
+    implementation "jp.bglb.bonboru:flux-utility-kotlin:$flux_version"
 
     testImplementation 'junit:junit:4.12'
 
